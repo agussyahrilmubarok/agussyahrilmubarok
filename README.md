@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-|||
-|---|---|
-|![Github Stats](https://github-readme-stats.vercel.app/api?username=agussyahrilmubarok&show_icons=true&hide_border=true&theme=dark&count_private=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agussyahrilmubarok&layout=compact&langs_count=8&hide_border=true&theme=dark&count_private=true&hide=html,css,scss,makefile,vue,processing)|
-|||
+| GitHub Stats | Top Languages | LeetCode Stats |
+|---|---|---|
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=agussyahrilmubarok&show_icons=true&hide_border=true&theme=dark&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agussyahrilmubarok&layout=compact&langs_count=8&hide_border=true&theme=dark&count_private=true&hide=html,css,scss,makefile,vue,processing) | ![LeetCode Stats](https://leetcard.jacoblin.cool/potatohuman?theme=dark&font=JetBrains%20Mono) |
